@@ -1,2 +1,2 @@
 # CodeExample
-This folder contains the examples of codes I wrote that uses machine learning and statistical modeling. 
+This folder contains a few examples of the codes I wrote for my classes and research. 
