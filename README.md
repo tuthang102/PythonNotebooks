@@ -1,2 +1,2 @@
 # CodeExample
-This folder contains a some of the fun codes I wrote for my classes and research.  
+This folder contains a some of the fun codes I wrote.
